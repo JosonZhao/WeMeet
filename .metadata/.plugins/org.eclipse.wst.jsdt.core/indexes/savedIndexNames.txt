@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+F:\myProgram\Team\WeMeet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1371553571.index
+2701133437.index
+1007073021.index
+3342259919.index
+1994155479.index
+3967737303.index
